@@ -1,0 +1,16 @@
+{
+  "name": "helloworldapp",
+  "version": "1.0.0",
+  "description": "node-azure-trial",
+  "main": "index.js",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
